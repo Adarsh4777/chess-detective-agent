@@ -1,6 +1,6 @@
-# ♟ Chess Detective Agent
+# Chess Detective Agent
 
-An MCP-powered chess investigation system that helps analyze chess positions, explore legal moves, compare decisions, and reconstruct games.
+An MCP powered chess investigation system that helps analyze chess positions, explore legal moves, compare decisions, and reconstruct games.
 
 ## The Idea
 
